@@ -5,7 +5,7 @@ Documentation and examples for Webstars front end coding processes.
 
 I'm going to start this off by bringing in the list I made in our Basecamp discussion. We can then start to build on this using the Github wiki and commiting any code examples to appropriate places in this repo. This should be a living breathing document that we can add suggestions to, and discuss. However - we should aim to have a process that we all abide to.
 
-## [HTML]
+## [HTML](html.md)
 - Version (doctype)
 - WAI Aria roles
 - Syntax
