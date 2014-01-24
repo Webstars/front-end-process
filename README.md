@@ -11,7 +11,7 @@ I'm going to start this off by bringing in the list I made in our Basecamp discu
 - Syntax
 	- Commenting
 
-## CSS
+## [CSS](css.md)
 - Preprocessing language
 - Syntax
 	- Whitespace: Tabs vs spaces
@@ -19,7 +19,7 @@ I'm going to start this off by bringing in the list I made in our Basecamp discu
 - Frameworks
 - Includes/structure
 
-## JS
+## [JS](js.md)
 - Syntax
 	- Whitespace
 	- Commenting
@@ -27,11 +27,11 @@ I'm going to start this off by bringing in the list I made in our Basecamp discu
 - Structure
 	- Delayed loading of JS (loading files NOT in the head of a page)
 
-## Versioning
+## [Versioning](versioning.md)
 - Git?
 - Versioning server or cloud solution (Github)
 
-## Deployment
+## [Deployment](deployment.md)
 - Minification of CSS
 - Minification of JS
 - Concatenation of JS
@@ -40,5 +40,5 @@ I'm going to start this off by bringing in the list I made in our Basecamp discu
 - Detailed caching check, use of expires headers
 - Optimisation auditing using something like Google Page Speed, or YSlow
 
-## Automation
+## [Automation](automation.md)
 - Software/command line solution - Grunt?
