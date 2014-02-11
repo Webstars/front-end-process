@@ -27,6 +27,9 @@ I'm going to start this off by bringing in the list I made in our Basecamp discu
 - Structure
 	- Delayed loading of JS (loading files NOT in the head of a page)
 
+## [Images](images.md)
+- SVG as inline element
+
 ## [Versioning](versioning.md)
 - Git?
 - Versioning server or cloud solution (Github)
