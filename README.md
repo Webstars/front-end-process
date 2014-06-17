@@ -26,8 +26,9 @@ This guide aims to set out
 - Structure
 	- Delayed loading of JS (loading files NOT in the head of a page)
 
-## [Images](images.md)
-- SVG as inline element
+## [Media](media/index-media)
+1. SVG
+2. Bitmap Images
 
 ## [Versioning](versioning.md)
 - Git?
