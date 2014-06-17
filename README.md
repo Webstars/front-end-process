@@ -4,13 +4,13 @@ Webstars - Front End Process Guide
 ## Scope
 This guide aims to set out 
 
-## [HTML](html.md)
+## [HTML](html/index-html.md)
 - Version (doctype)
 - WAI Aria roles
 - Syntax
 	- Commenting
 
-## [CSS](css.md)
+## [CSS](css/index-css.md)
 - Preprocessing language
 - Syntax
 	- Whitespace: Tabs vs spaces
@@ -18,7 +18,7 @@ This guide aims to set out
 - Frameworks
 - Includes/structure
 
-## [JS](js.md)
+## [JS](js/index-js.md)
 - Syntax
 	- Whitespace
 	- Commenting
@@ -26,15 +26,15 @@ This guide aims to set out
 - Structure
 	- Delayed loading of JS (loading files NOT in the head of a page)
 
-## [Media](media/index-media)
+## [Media](media/index-media.md)
 1. SVG
 2. Bitmap Images
 
-## [Versioning](versioning.md)
+## [Versioning](versioning/index-versioning.md)
 - Git?
 - Versioning server or cloud solution (Github)
 
-## [Deployment](deployment.md)
+## [Deployment](deployment/index-deployment.md)
 - Minification of CSS
 - Minification of JS
 - Concatenation of JS
@@ -43,5 +43,5 @@ This guide aims to set out
 - Detailed caching check, use of expires headers
 - Optimisation auditing using something like Google Page Speed, or YSlow
 
-## [Automation](automation.md)
+## [Automation](automation/index-automation.md)
 - Software/command line solution - Grunt?
